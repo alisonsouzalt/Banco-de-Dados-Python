@@ -10,5 +10,5 @@ automaticamente caso o login criado já exista.
 Usei while para criar uma repetição de MENU, e o Break para sair do while existente,
 fazendo com que o usuário navegue pelos menus existentes sem finalizar o sistema.
 
-O projeto ainda está em desevolvimento, pretenndo criar um sistema de armazenamento de senhas,
+O projeto ainda está em desenvolvimento, pretendo criar um sistema de armazenamento de senhas,
 e reconhecimento das mesmas para cada usuário.
